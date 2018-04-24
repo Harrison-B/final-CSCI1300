@@ -1,0 +1,18 @@
+club,A simple short wooden club,3,0,0 
+sword,A mediocre weapon for modest adventurers,4,0,0 
+axe,A woodsmans axe,5,0,0 
+dagger,This small blade enjoys the night,6,0,0 
+rapier,The mustache is complementary,7,0,0 
+battle-axe,This blade has seen war and relishes it,8,0,0 
+battle-hammer,A blood mist covers your eyes as you hold this hammer,9,0,0 
+javelin,Solid oak with a metal tip. Will fly true and fast,10,0,0 
+mace,A tad unwieldy but with training can be deadly,11,0,0 
+spear,Throw is and watch it soar,12,0,0 
+glaive,It's a sword on a stick,13,0,0 
+greatsword,A significantly more powerful sword,14,0,0 
+halberd,Its an axe on a stick,15,0,0 
+morningstar,Imagine a mace without a chain. Now look in your hands,16,0,0 
+pike,Poke poke poke,17,0,0 
+scimitar,A mysterious and exotic blade. Some say it has special powers,16,1,0 
+trident,Possibly used by Posiedon himself,18,0,0 
+warhammer,YOUR FOES TREMBLE AT THE SIGHT OF THIS HAMMER,20,1,0 

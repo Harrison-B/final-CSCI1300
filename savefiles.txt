@@ -1,0 +1,1 @@
+Name,Level,WeaponLvl,Weapon,Spell1,Spell2,Spell3,Type,Health,MaxHealth,Mana

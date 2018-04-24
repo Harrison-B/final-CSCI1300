@@ -1,0 +1,15 @@
+fireball,A fire elemental attack common for young wizards,6,0,1 
+firebolt,A quick jet of flame to burn enemies quickly,12,0,1 
+fire-strike,Careful channeling this attack as there is a chance it could knock you back,18,0,1 
+inferno,A violent and furious maelstrom of flame,24,0,1 
+ice-spike,Apprentice mages use this ice spike to cool drinks or kill rodents,6,0,2 
+ice-spear,A sharp and cold end to most problems,12,0,2 
+ice-sphere,A blunt and extremely cold end to any problem,18,0,2 
+blizzard,The wind whips around you as you summon a tempest of ice,24,0,2 
+lightning-bolt,No one is impressed by a common lightning bolt,6,0,3 
+lightning-strike,Crack sizzle pop goes the strike,12,0,3 
+electricity-ball,A statisying electric crackle eminates from your victim,18,0,3 
+lightning-storm,You are surrounded by a hurricane of electricity,24,0,3 
+healing-touch,Quickly heal a small wound may leave a scar,3,0,4 
+heal-wounds,Heal a larger wound or damage,5,0,4 
+powerful-healing,A feeling of relief flows through you healing major damage,10,0,4 
